@@ -48,7 +48,7 @@
    > - Hellow, World! Jun Kiat
    > - Hello World, Matthew
    > - Hello World, Nabil
-   > - Hello world, Jacob
+   > - Hello world, **Jacob**
    > - Hello World, Benedict
    > - Hello world, Wei Hao
    > - Hello world, Tun Siang
@@ -71,11 +71,15 @@
    > - Hello World, Randy
    > - Hello World, Adam Lee
    > - Hello World, Sunkang
+   > - Hello World, Wei Sheng
    > - _HELLO WORLD_ , sara
    > - Hello _World_, **Jabier**
    > - Hello World, Reynard
    > - Hello _World_, Hello **James**
    > - Hello World, Yan Hye
+   > - Hello World, Henry
+   > - Hello World, Mikail
+   > - Hello World, Joey
    > - Hello World, Ng Jie Yung
     > - Hello World, Zen
    > - Hello World, **Arthur**
