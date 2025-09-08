@@ -88,6 +88,13 @@
    > - Hello World, Koel
    > - Hello World, Miguel
    > - Hello World, Jasper
+   > - Hello World, Miguel
+   > - Hello World, Mikail
+   > - _Hello_ World, **Jia Jia**
+   > - Hello World, Zen
+   > - Hello World, **Arthur**
+   > - Hello World, Xinyu
+   > - Hello World, Tan Jiahao
    >   > - Bye Bye World.
    >   >
    >   > - Hello _Italics font_, Hello **Bold font**
