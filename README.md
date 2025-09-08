@@ -54,7 +54,7 @@
    > - Hello World, Benedict
    > - Hello world, Wei Hao
    > - Hello world, Tun Siang
-   > - Hello world, Ryson 
+   > - Hello world, Ryson
    > - hello world, vuitton...
    > - Hello world, Junwei
    > - Hello world, Yuzhe :)
@@ -117,7 +117,7 @@
    > - Hello World, Lenti
    > - Hello World, Siyi
    > - Hello World, Dan
-   > - Hello world, Eric	
+   > - Hello world, Eric
    > - Hello World, Valerie
    > - Hello World, **_Gerald Tan YX_**
    >>
