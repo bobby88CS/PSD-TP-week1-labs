@@ -119,6 +119,7 @@
    > - Hello World, Siyi
    > - Hello World, Dan
    > - Hello world, Eric	
+   > - Hello World, Valerie
 >>>>>>> 3eddc2462bb118f2907c3aae6ec19f679823d75f
    >>
    >> - Bye Bye World.
