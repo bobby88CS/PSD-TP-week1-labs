@@ -79,6 +79,7 @@
    > - Hello World, Ng Jie Yung
     > - Hello World, Zen
    > - Hello World, **Arthur**
+   > - Hello World, Xinyu
    >   > - Bye Bye World.
    >   >
    >   > - Hello _Italics font_, Hello **Bold font**
