@@ -104,13 +104,14 @@
    > - Hello World, Tan Jiahao
    > - Hello World, Francis
    > - **_Hello World, Shyann_**
-   >   > - Bye Bye World.
-   >   >
-   >   > - Hello _Italics font_, Hello **Bold font**
    > - Hello World, Wee Jer
    > - Hello World, Dereck
    > - Hello World, Haoting
    > - Hello World, Nico
+   > - Hello World, **Kieran**
+   > - Hello World, Guo Wei
+   > - Hello World, **Jess**
+   > - Hello World, **Jia Ming**
    >>
    >> - Bye Bye World.
    >>
