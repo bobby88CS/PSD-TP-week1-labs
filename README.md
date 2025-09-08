@@ -54,7 +54,7 @@
    > - Hello World, Benedict
    > - Hello world, Wei Hao
    > - Hello world, Tun Siang
-   > - Hello world, Ryson 
+   > - Hello world, Ryson
    > - hello world, vuitton...
    > - Hello world, Junwei
    > - Hello world, Yuzhe :)
@@ -114,17 +114,26 @@
    > - Hello World, **Jia Ming**
    > - Hello World, Boon Kai
    > - Hello **World**, _Bryent_
-   > - Hello, BRYAN
-<<<<<<< HEAD
+   > - Hello World, Bryan
    > - Hello World, Lenti
    > - Hello World, Siyi
    > - Hello World, Dan
->>>>>>> 3eddc2462bb118f2907c3aae6ec19f679823d75f
+   > - Hello world, Eric
+   > - Hello World, Valerie
+   > - Hello World, **_Gerald Tan YX_**
+   > - Hello World, Joshua
+   > - Hello World, Mei Yuen
+   > - Hello World, Yip jun wei
+   > - Hello World!, **Aiman Sylvester**
+   > - Hello World! _Phoebe Lau_
+   > - Hello World! Chervelle Tan
+   > - Hello World, Melvin
+   > - Hello World, Ethan
+   > - Hello World, HanSheng
    >>
    >> - Bye Bye World.
    >>
    >> - Hello _Italics font_, Hello **Bold font**
-   > - Hello World!, **Aiman Sylvester**
 
 
 Next, we will try syntax to create and edit a Markdown document as follows:
