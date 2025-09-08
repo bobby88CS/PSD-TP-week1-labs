@@ -62,7 +62,6 @@
    > - Hello World, Kenny
    > - Hello _World_, **Tze Kai**
    > - Hello World, Gaddiel Lim
-<<<<<<< HEAD
    > - Hello **World**, Haoting 🌟
    > - Hello World, Quan Yi
    > - Hello World, Metta Tan
@@ -104,7 +103,6 @@
    >   >
    >   > - Hello _Italics font_, Hello **Bold font**
    > - Hello World, Wee Jer
-=======
    > - Hello World, Haoting
    > - Hello World, Nico
    >>
@@ -113,7 +111,6 @@
    >> - Hello _Italics font_, Hello **Bold font**
    >
 
->>>>>>> fe5bfa4 (-m updated readme)
 
 Next, we will try syntax to create and edit a Markdown document as follows:
 
