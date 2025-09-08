@@ -70,6 +70,7 @@
    > - Hello World, Clairer
    > - Hello World, Randy
    > - Hello World, Sunkang
+   > - Hello World, Wei Sheng
    >   > - Bye Bye World.
    >   >
    >   > - Hello _Italics font_, Hello **Bold font**
