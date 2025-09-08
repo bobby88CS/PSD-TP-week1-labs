@@ -71,6 +71,9 @@
    > - Hello World, Randy
    > - Hello World, Sunkang
    > - Hello World, Wei Sheng
+   > - _HELLO WORLD_ , sara
+   > - Hello _World_, **Jabier**
+
    >   > - Bye Bye World.
    >   >
    >   > - Hello _Italics font_, Hello **Bold font**
