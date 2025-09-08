@@ -125,6 +125,7 @@
    >>
    >> - Hello _Italics font_, Hello **Bold font**
    > - Hello World!, **Aiman Sylvester**
+   > - Hello World! _Phoebe Lau_
 
 
 Next, we will try syntax to create and edit a Markdown document as follows:
