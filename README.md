@@ -84,6 +84,7 @@
     > - Hello World, Zen
    > - Hello World, **Arthur**
    > - Hello World, Xinyu
+   > - Hello World, Miguel
    >   > - Bye Bye World.
    >   >
    >   > - Hello _Italics font_, Hello **Bold font**
