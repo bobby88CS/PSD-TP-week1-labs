@@ -48,10 +48,11 @@
    > - Hellow, World! Jun Kiat
    > - Hello World, Matthew
    > - Hello World, Nabil
-   > - Hello world, Jacob
+   > - Hello world, **Jacob**
    > - Hello World, Benedict
    > - Hello world, Wei Hao
    > - Hello world, Tun Siang
+   > - Hello world, Ryson 
    > - hello world, vuitton...
    > - Hello world, Junwei
    > - Hello world, Yuzhe :)
@@ -78,11 +79,41 @@
    > - Hello _World_, Terence
    > - Hello _World_, Hello **James**
    > - Hello World, Yan Hye
+   > - Hello World, Henry
    > - Hello World, Mikail
    > - Hello World, Joey
+   > - Hello World, Ng Jie Yung
+   > - _Hello_ Word, **Jia Jia**
+   > - Hello World, Zen
+   > - Hello World, **Arthur**
+   > - Hello World, Xinyu
+   > - Hello World, Koel
+   > - Hello World, Miguel
+   > - Hello World, Jasper
+   > - Hello World, Miguel
+   > - Hello World, Mikail
+   > - _Hello_ World, **Jia Jia**
+   > - Hello World, Zen
+   > - Hello World, **Arthur**
+   > - Hello World, Xinyu
+   > - hello world, delvin
+   > - Hello World, Tan Jiahao
+   > - Hello world Delvin
+   > - Hello World, Tan Jiahao
+   > - Hello World, Francis
    >   > - Bye Bye World.
    >   >
    >   > - Hello _Italics font_, Hello **Bold font**
+   > - Hello World, Wee Jer
+   > - Hello World, Dereck
+   > - Hello World, Haoting
+   > - Hello World, Nico
+   >>
+   >> - Bye Bye World.
+   >>
+   >> - Hello _Italics font_, Hello **Bold font**
+   >
+
 
 Next, we will try syntax to create and edit a Markdown document as follows:
 
