@@ -76,6 +76,7 @@
    > - _HELLO WORLD_ , sara
    > - Hello _World_, **Jabier**
    > - Hello World, Reynard
+   > - Hello _World_, Terence
    > - Hello _World_, Hello **James**
    > - Hello World, Yan Hye
    > - Hello World, Henry
@@ -100,11 +101,13 @@
    > - Hello world Delvin
    > - Hello World, Tan Jiahao
    > - Hello World, Francis
+   > - **_Hello World, Shyann_**
    > - Hello World, Wee Jer
    > - Hello World, Dereck
    > - Hello World, Haoting
    > - Hello World, Nico
    > - Hello World, **Kieran**
+   > - Hello World, Guo Wei
    >>
    >> - Bye Bye World.
    >>
