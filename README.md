@@ -123,13 +123,14 @@
    > - Hello World, Joshua
    > - Hello World, Mei Yuen
    > - Hello World, Yip jun wei
+   > - Hello World!, **Aiman Sylvester**
+   > - Hello World! _Phoebe Lau_
+   > - Hello World! Chervelle Tan
+   > - Hello World, Melvin
    >>
    >> - Bye Bye World.
    >>
    >> - Hello _Italics font_, Hello **Bold font**
-   > - Hello World!, **Aiman Sylvester**
-   > - Hello World! _Phoebe Lau_
-   > - Hello World! Chervelle Tan
 
 
 Next, we will try syntax to create and edit a Markdown document as follows:
