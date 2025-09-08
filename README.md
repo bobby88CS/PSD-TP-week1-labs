@@ -114,7 +114,11 @@
    > - Hello World, **Jia Ming**
    > - Hello World, Boon Kai
    > - Hello **World**, _Bryent_
+<<<<<<< HEAD
    > - Hello World, Lenti
+   > - Hello World, Siyi
+   > - Hello World, Dan
+>>>>>>> 3eddc2462bb118f2907c3aae6ec19f679823d75f
    >>
    >> - Bye Bye World.
    >>
