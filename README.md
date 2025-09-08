@@ -72,6 +72,7 @@
    > - Hello World, Sunkang
    > - _HELLO WORLD_ , sara
    > - Hello _World_, **Jabier**
+   > - Hello _World_, Hello **James**
    >   > - Bye Bye World.
    >   >
    >   > - Hello _Italics font_, Hello **Bold font**
