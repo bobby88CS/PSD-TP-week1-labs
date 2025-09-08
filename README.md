@@ -77,13 +77,10 @@
    > - Hello World, Reynard
    > - Hello _World_, Hello **James**
    > - Hello World, Yan Hye
-<<<<<<< HEAD
    > - Hello World, Henry
    > - Hello World, Mikail
    > - Hello World, Joey
-=======
    > - Hello World, Ng Jie Yung
->>>>>>> 310f9c01f228e74f928749e3dc7891f4eefa8cc1
    >   > - Bye Bye World.
    >   >
    >   > - Hello _Italics font_, Hello **Bold font**
