@@ -75,6 +75,7 @@
    > - Hello _World_, **Jabier**
    > - Hello World, Reynard
    > - Hello World, Yan Hye
+   > - Hello World, Henry
    >   > - Bye Bye World.
    >   >
    >   > - Hello _Italics font_, Hello **Bold font**
