@@ -91,10 +91,14 @@
    > - Hello World, Miguel
    > - Hello World, Mikail
    > - _Hello_ World, **Jia Jia**
+<<<<<<< HEAD
    > - Hello World, Zen
    > - Hello World, **Arthur**
    > - Hello World, Xinyu
    > - Hello World, Tan Jiahao
+=======
+   > - Hello world Delvin
+>>>>>>> 59b5789 (Hello world delvin)
    >   > - Bye Bye World.
    >   >
    >   > - Hello _Italics font_, Hello **Bold font**
