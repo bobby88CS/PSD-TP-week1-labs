@@ -81,10 +81,16 @@
    > - Hello World, Mikail
    > - Hello World, Joey
    > - Hello World, Ng Jie Yung
-    > - Hello World, Zen
+   > - _Hello_ Word, **Jia Jia**
+   > - Hello World, Zen
    > - Hello World, **Arthur**
    > - Hello World, Xinyu
+<<<<<<< HEAD
    > - Hello World, Miguel
+=======
+   > - Hello World, Mikail
+   > - _Hello_ World, **Jia Jia**
+>>>>>>> 9c0f997413c1d0bf01ba79296744630f2cd588a8
    >   > - Bye Bye World.
    >   >
    >   > - Hello _Italics font_, Hello **Bold font**
