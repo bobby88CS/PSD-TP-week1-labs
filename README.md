@@ -115,11 +115,9 @@
    > - Hello World, Boon Kai
    > - Hello **World**, _Bryent_
    > - Hello World, bryan
-<<<<<<< HEAD
    > - Hello World, Lenti
    > - Hello World, Siyi
    > - Hello World, Dan
->>>>>>> 3eddc2462bb118f2907c3aae6ec19f679823d75f
    >>
    >> - Bye Bye World.
    >>
