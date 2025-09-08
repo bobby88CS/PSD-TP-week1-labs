@@ -100,13 +100,11 @@
    > - Hello world Delvin
    > - Hello World, Tan Jiahao
    > - Hello World, Francis
-   >   > - Bye Bye World.
-   >   >
-   >   > - Hello _Italics font_, Hello **Bold font**
    > - Hello World, Wee Jer
    > - Hello World, Dereck
    > - Hello World, Haoting
    > - Hello World, Nico
+   > - Hello World, **Kieran**
    >>
    >> - Bye Bye World.
    >>
