@@ -69,11 +69,13 @@
    > - Hello World, Ben
    > - Hello World, Clairer
    > - Hello World, Randy
+   > - Hello World, Adam Lee
    > - Hello World, Sunkang
    > - _HELLO WORLD_ , sara
    > - Hello _World_, **Jabier**
    > - Hello World, Reynard
    > - Hello _World_, Terence
+   > - Hello World, Yan Hye
    >   > - Bye Bye World.
    >   >
    >   > - Hello _Italics font_, Hello **Bold font**
