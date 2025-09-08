@@ -73,6 +73,7 @@
    > - _HELLO WORLD_ , sara
    > - Hello _World_, **Jabier**
    > - Hello World, Reynard
+   > - Hello _World_, Terence
    >   > - Bye Bye World.
    >   >
    >   > - Hello _Italics font_, Hello **Bold font**
