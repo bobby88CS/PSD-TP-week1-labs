@@ -109,6 +109,7 @@
    > - Hello World, Dereck
    > - Hello World, Haoting
    > - Hello World, Nico
+   > - Hello World, Guo Wei
    >>
    >> - Bye Bye World.
    >>
