@@ -109,6 +109,7 @@
    > - Hello World, **Kieran**
    > - Hello World, Guo Wei
    > - Hello World, **Jess**
+   > - Hello World, **Jia Ming**
    >>
    >> - Bye Bye World.
    >>
