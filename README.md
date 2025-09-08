@@ -88,6 +88,7 @@
    >   > - Bye Bye World.
    >   >
    >   > - Hello _Italics font_, Hello **Bold font**
+   > - Hello World, Wee Jer
 
 Next, we will try syntax to create and edit a Markdown document as follows:
 
