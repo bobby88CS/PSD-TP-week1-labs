@@ -1,3 +1,5 @@
+
+
 # ==PSD-TP-week1-labs== for the Common Team (to all students)
 
 ## Good days Class. In the week 1 labs of PSD-TP, you will learn how to use the Github repositories for your TP projects
@@ -116,7 +118,7 @@
    >> - Bye Bye World.
    >>
    >> - Hello _Italics font_, Hello **Bold font**
-   >
+   > - Hello World!, **Aiman Sylvester**
 
 
 Next, we will try syntax to create and edit a Markdown document as follows:
